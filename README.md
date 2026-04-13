@@ -2,7 +2,7 @@
 
 A simple REST API for managing personal tasks — built with Node.js and Express. All data is stored in-memory (no database required).
 
----
+**Live Demo:** [task-manager-production-fe3c.up.railway.app/tasks]
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ A simple REST API for managing personal tasks — built with Node.js and Express
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/sarthak248-pt/Task-Manager>
 cd task-manager
 
 # 2. Install dependencies
